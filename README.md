@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LunaGuo
+- 👋 Hi, I’m @wynneguo
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently learning algorithms on Coursera
 - 📫 How to reach me wynneguolu/g.com
